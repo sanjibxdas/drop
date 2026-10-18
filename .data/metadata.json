@@ -1,0 +1,128 @@
+{
+  "deployments": {
+    "drop_3fe305dffdc9": {
+      "id": "drop_3fe305dffdc9",
+      "slug": "df91b259",
+      "name": "Agent Site",
+      "ownerId": null,
+      "claimTokenHash": "133abaa5de00aa3f7b19ceb231fdb08965305ab87ce096cc04f69d7213fceb48",
+      "deletionTokenHash": "c32e3de0adc30292516e37c0942aec7e1b71358c2e5732e6e76795d0dc007e39",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:26:32.975Z",
+      "updatedAt": "2026-10-15T18:26:32.975Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 26,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_3fe305dffdc9",
+      "deletedAt": null
+    },
+    "drop_713a84554303": {
+      "id": "drop_713a84554303",
+      "slug": "2e8c3347",
+      "name": "Agent Site",
+      "ownerId": null,
+      "claimTokenHash": "ebe70892d226d86ef37215ab70d6f3ee6d57d917119ab9e44d80328435639e0d",
+      "deletionTokenHash": "6a055bc15ec57f5122e105e31fe5d96e72f917d4abe55db242a63ec332447990",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:39:25.492Z",
+      "updatedAt": "2026-10-15T18:39:25.492Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 26,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_713a84554303",
+      "deletedAt": null
+    },
+    "drop_7f89b9880a07": {
+      "id": "drop_7f89b9880a07",
+      "slug": "f6405c3c",
+      "name": "Demo Project",
+      "ownerId": null,
+      "claimTokenHash": "53839ca25de86d179c195362784c19c01a33802bf9b1f8795b3e6897e24b6a57",
+      "deletionTokenHash": "a059827acf95fcae473cd6d0b82ea7b4f15280a5df2775d4d19b7ba4def58661",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:40:49.196Z",
+      "updatedAt": "2026-10-15T18:40:49.196Z",
+      "expiresAt": null,
+      "files": [
+        "index.html",
+        "style.css",
+        "script.js"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 4154,
+      "fileCount": 3,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_7f89b9880a07",
+      "deletedAt": null
+    },
+    "drop_75ce8ae500b1": {
+      "id": "drop_75ce8ae500b1",
+      "slug": "locked-vault",
+      "name": "locked-vault",
+      "ownerId": null,
+      "claimTokenHash": "35b889b2231525863c902f02fc7365d159104991307dcfe348b80ae1153aae10",
+      "deletionTokenHash": "1736edfe64e671f06fb7e53f425d3f140c8e8a583f29ecaa1eed95f2af773133",
+      "passwordHash": "a848df0fb11e2255c1ee033fe575ba761723156620b6c14933866b5838d6795693414da593775d3fdafbc2a29428de0046243597d382a64404a311953e1f24f2",
+      "passwordSalt": "05556b9c8057561bbcf3cad37243cbaf",
+      "status": "ready",
+      "createdAt": "2026-10-15T18:45:02.302Z",
+      "updatedAt": "2026-10-15T18:45:02.302Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 29,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_75ce8ae500b1",
+      "deletedAt": null
+    },
+    "drop_2fdf01eec389": {
+      "id": "drop_2fdf01eec389",
+      "slug": "e1a44586",
+      "name": "Agent Site",
+      "ownerId": null,
+      "claimTokenHash": "3211858ed299e00748c0c773af1d4c19f5fc6ed4fdb621dd9284efa800ed07dc",
+      "deletionTokenHash": "d993c7556540fb937913a69a7c916f216badb46415f3400f9765a2865db34036",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:45:39.929Z",
+      "updatedAt": "2026-10-15T18:45:39.929Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 26,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_2fdf01eec389",
+      "deletedAt": null
+    }
+  },
+  "apiKeys": {},
+  "accounts": {}
+}

@@ -1,0 +1,58 @@
+{
+  "deployments": {
+    "drop_9afe6a3eaffe": {
+      "id": "drop_9afe6a3eaffe",
+      "slug": "8251b17b",
+      "name": "Zip Drop",
+      "ownerId": null,
+      "claimTokenHash": "0e16208b3372ca78eb678b220081f7807325679f07430a0dd557c81e86740b8d",
+      "deletionTokenHash": "9c22bacf41d5dd58df6a1d41caf641b8a8d1680edf455c6605626e08d2013a03",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:39:25.472Z",
+      "updatedAt": "2026-10-15T18:39:25.472Z",
+      "expiresAt": null,
+      "files": [
+        "index.html",
+        "style.css",
+        "scripts/app.js"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 83,
+      "fileCount": 3,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_9afe6a3eaffe",
+      "deletedAt": null
+    },
+    "drop_82858d5dc8f6": {
+      "id": "drop_82858d5dc8f6",
+      "slug": "ae290de1",
+      "name": "Zip Drop",
+      "ownerId": null,
+      "claimTokenHash": "34fbfc4bfe692694cf63ba3190d97765de9329170a15416d1fd8754c444ace45",
+      "deletionTokenHash": "f164596b9b4b10edd5f1db660505eff0a9efcd0ad03f7cadb41aa33e10eb6195",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:45:39.903Z",
+      "updatedAt": "2026-10-15T18:45:39.903Z",
+      "expiresAt": null,
+      "files": [
+        "index.html",
+        "style.css",
+        "scripts/app.js"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 83,
+      "fileCount": 3,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_82858d5dc8f6",
+      "deletedAt": null
+    }
+  },
+  "apiKeys": {},
+  "accounts": {}
+}

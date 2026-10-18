@@ -1,0 +1,58 @@
+{
+  "deployments": {
+    "drop_d98990ace00e": {
+      "id": "drop_d98990ace00e",
+      "slug": "f8b316ce",
+      "name": "Versioned App",
+      "ownerId": "user_123",
+      "claimTokenHash": null,
+      "deletionTokenHash": null,
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:39:25.474Z",
+      "updatedAt": "2026-10-15T18:39:25.475Z",
+      "expiresAt": null,
+      "files": [
+        "index.html",
+        "about.html",
+        "style.css"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 54,
+      "fileCount": 3,
+      "version": 2,
+      "spaFallback": false,
+      "storagePrefix": "drop_d98990ace00e",
+      "deletedAt": null
+    },
+    "drop_d16cbb8e1cc2": {
+      "id": "drop_d16cbb8e1cc2",
+      "slug": "e8af3945",
+      "name": "Versioned App",
+      "ownerId": "user_123",
+      "claimTokenHash": null,
+      "deletionTokenHash": null,
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:45:39.904Z",
+      "updatedAt": "2026-10-15T18:45:39.905Z",
+      "expiresAt": null,
+      "files": [
+        "index.html",
+        "about.html",
+        "style.css"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 54,
+      "fileCount": 3,
+      "version": 2,
+      "spaFallback": false,
+      "storagePrefix": "drop_d16cbb8e1cc2",
+      "deletedAt": null
+    }
+  },
+  "apiKeys": {},
+  "accounts": {}
+}

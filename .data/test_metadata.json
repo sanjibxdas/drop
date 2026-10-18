@@ -1,0 +1,54 @@
+{
+  "deployments": {
+    "drop_076085faf81f": {
+      "id": "drop_076085faf81f",
+      "slug": "fbf394cb",
+      "name": "My Test Drop",
+      "ownerId": null,
+      "claimTokenHash": "c63d3d95accb7f62a872edaa8ec151fe163c77a8c9512556a787dd7b0a647e65",
+      "deletionTokenHash": "f644c30415464007c57fd49e9d031e797a8100a9d96e30e788ef6ee1f074cf85",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:39:25.446Z",
+      "updatedAt": "2026-10-15T18:39:25.446Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 89,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_076085faf81f",
+      "deletedAt": null
+    },
+    "drop_6a8276a5cf21": {
+      "id": "drop_6a8276a5cf21",
+      "slug": "8916240a",
+      "name": "My Test Drop",
+      "ownerId": null,
+      "claimTokenHash": "6c7ec235417bc97e8c90e944f1c4c25c04d859cfa0c52c9113b3e33b61c1ff04",
+      "deletionTokenHash": "b39953dd3f2e115b09a8977e4ba752eb0bdb7abd072df9dd35e9418b411ca9f1",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:45:39.875Z",
+      "updatedAt": "2026-10-15T18:45:39.875Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 89,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_6a8276a5cf21",
+      "deletedAt": null
+    }
+  },
+  "apiKeys": {},
+  "accounts": {}
+}

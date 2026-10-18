@@ -1,0 +1,54 @@
+{
+  "deployments": {
+    "drop_db8822205bf0": {
+      "id": "drop_db8822205bf0",
+      "slug": "b5e1f7aa",
+      "name": "b5e1f7aa",
+      "ownerId": "user_456",
+      "claimTokenHash": null,
+      "deletionTokenHash": "114acf987115335f5fb7a7c78c28a2b076037802abfd15c3fb3c3a1bc00e4ac3",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:39:25.477Z",
+      "updatedAt": "2026-10-15T18:39:25.478Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 13,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_db8822205bf0",
+      "deletedAt": null
+    },
+    "drop_4e489cc6d0d0": {
+      "id": "drop_4e489cc6d0d0",
+      "slug": "fafdca35",
+      "name": "fafdca35",
+      "ownerId": "user_456",
+      "claimTokenHash": null,
+      "deletionTokenHash": "d05f6620e757476939850cebc01cc3d51fe74a3b0946921792e1cf39c314def2",
+      "passwordHash": null,
+      "passwordSalt": null,
+      "status": "ready",
+      "createdAt": "2026-10-15T18:45:39.906Z",
+      "updatedAt": "2026-10-15T18:45:39.907Z",
+      "expiresAt": null,
+      "files": [
+        "index.html"
+      ],
+      "entrypoint": "index.html",
+      "totalBytes": 13,
+      "fileCount": 1,
+      "version": 1,
+      "spaFallback": false,
+      "storagePrefix": "drop_4e489cc6d0d0",
+      "deletedAt": null
+    }
+  },
+  "apiKeys": {},
+  "accounts": {}
+}
